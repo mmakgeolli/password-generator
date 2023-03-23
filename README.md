@@ -1,6 +1,8 @@
 # password-generator
 
-Consists of JavaScript, CSS, and HTML to make an online password generator
+This 
+
+Consists of JavaScript, CSS, and HTML to make an online password generator. This password generator's purpose it exactly what it's called! It will ask the user a series of prompts for the password's criteria, and then all the user needs to do is click the "generate button to generate a password!
 
 The parameters that I am trying to meet with this generator is:
 
